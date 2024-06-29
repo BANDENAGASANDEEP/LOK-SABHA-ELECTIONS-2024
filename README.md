@@ -29,7 +29,7 @@ To run this notebook, you will need the following Python packages:
 4. Visualizations: Graphical representations of the election results.
 
 ## Contributing
-If you would like to contribute to this project, please follow these steps:
+please follow these steps,If you would like to contribute to this project :
 
 1. Fork the repository.
 2. Create a new branch ('git checkout -b feature-branch').
