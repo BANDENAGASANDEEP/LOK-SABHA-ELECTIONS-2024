@@ -4,10 +4,10 @@ This repository contains a comprehensive analysis of the Lok Sabha Elections 202
 ## Prerequisites
 To run this notebook, you will need the following Python packages:
 
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-other packages as required
-You can install these packages using pip:
+1.pandas
+2.numpy
+3.matplotlib
+4.seaborn
+5.scikit-learn
+6.other packages as required
+
